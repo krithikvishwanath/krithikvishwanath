@@ -1,13 +1,13 @@
-<h2 align="left" style="padding-top:20px">About Me 👋🏽</h2>
+<h2 align="left" style="padding-top:20px">A little about me</h2>
 
-Hi! Thank you for visiting my profile. I’m an researcher working at the intersection of <b>cancer</b> and <b>technology</b>.
+Hi, I'm Krithik! I’m an researcher working at the intersection of <b>cancer</b> and <b>technology</b>.
 My research focuses on: (1) building mathematical + computational tools to model oncology and clinical treatment, (2) translating cutting-edge
 methods (including medical AI/LLMs) into oncology workflows, and (3) helping democratize these technologies.
 
 <!-- Optional: add a personal website link here -->
 <!-- To learn more, please visit <a href="https://your-website.com">my website</a>. -->
 
-<h2 align="left" style="padding-top:20px">Languages and Libraries 👨🏽‍💻</h2>
+<h2 align="left" style="padding-top:20px">Languages / Libraries </h2>
 
 <p align="left">
   <!-- Languages -->
@@ -78,13 +78,8 @@ Want to get in touch? Please feel free to <a href="mailto:krithik.vish@utexas.ed
     <img align="center" src="https://img.shields.io/badge/LinkedIn-@krithikvish-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin"/>
   </a>
 
-  <!-- Optional: add more badges -->
-  <!--
-  <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank" rel="noreferrer noopener">
+  <a href="https://scholar.google.com/citations?hl=en&user=THG0-Z0AAAAJ&view_op=list_works" target="_blank" rel="noreferrer noopener">
     <img align="center" src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="google scholar"/>
   </a>
-  -->
 </p>
 
-<!-- logos from https://simpleicons.org/ -->
-<!-- badges from https://shields.io/ -->
