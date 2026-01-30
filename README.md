@@ -4,7 +4,7 @@ Hi, I'm Krithik! I’m an researcher working at the intersection of <b>AI</b>, <
 My research focuses on: (1) building mathematical + computational tools to model oncology and clinical treatment, (2) translating cutting-edge
 methods (including medical AI/LLMs) into clinical workflows, and (3) helping democratize these technologies.
 
-To learn more about me, checkout <a href="https://www.krithikvishwanath.com/">my website</a>. 
+To learn more about me, check out <a href="https://www.krithikvishwanath.com/">my website</a>. 
 
 <h2 align="left" style="padding-top:20px">Languages / Libraries </h2>
 
