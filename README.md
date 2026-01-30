@@ -23,9 +23,9 @@ methods (including medical AI/LLMs) into oncology workflows, and (3) helping dem
   <a href="https://www.java.com/" target="_blank" rel="noreferrer noopener">
     <img align="center" src="https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java" alt="java"/>
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer noopener">
+  <!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer noopener">
     <img align="center" src="https://img.shields.io/badge/Language-SQL_(Postgres)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql"/>
-  </a>
+  </a> -->
 
   <br/><br/>
 
