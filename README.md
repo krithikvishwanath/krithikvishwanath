@@ -2,7 +2,7 @@
 
 Hi, I'm Krithik! I’m an researcher working at the intersection of <b>AI</b>, <b>mathematics</b> and <b>medicine</b>.
 My research focuses on: (1) building mathematical + computational tools to model oncology and clinical treatment, (2) translating cutting-edge
-methods (including medical AI/LLMs) into oncology workflows, and (3) helping democratize these technologies.
+methods (including medical AI/LLMs) into clinical workflows, and (3) helping democratize these technologies.
 
 <!-- Optional: add a personal website link here -->
 <!-- To learn more, please visit <a href="https://your-website.com">my website</a>. -->
