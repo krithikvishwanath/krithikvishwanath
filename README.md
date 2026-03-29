@@ -6,7 +6,7 @@ methods (including medical AI/LLMs) into clinical workflows, and (3) helping dem
 
 To learn more about me, check out <a href="https://www.krithikvishwanath.com/">my website</a>. 
 
-<h2 align="left" style="padding-top:20px">Languages / Libraries </h2>
+<h2 align="left" style="padding-top:20px">Languages / Libraries / Frameworks </h2>
 
 <p align="left">
   <!-- Languages -->
