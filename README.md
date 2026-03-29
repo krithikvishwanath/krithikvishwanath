@@ -68,7 +68,7 @@ To learn more about me, check out <a href="https://www.krithikvishwanath.com/">m
   </a>
 </p>
 
-<h2 align="left" style="padding-top:20px">Contac</h2>
+<h2 align="left" style="padding-top:20px">Contact Me</h2>
 
 Want to get in touch? Please feel free to <a href="mailto:krithik.vish@utexas.edu">email me</a>, or reach out here:
 
